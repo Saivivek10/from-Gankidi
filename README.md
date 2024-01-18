@@ -12,3 +12,7 @@ And I love **Paradise Biryani** .The **creative dishes** and **friendly staff** 
 1. **Chicken Tikka kebab**
 2. **Mutton Biryani**
 3. **Royal Chicken Biryani**
+
+- **Shopping Mall**
+- **Public park**
+- **Theater**
