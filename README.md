@@ -17,4 +17,4 @@ And I love **Paradise Biryani** .The **creative dishes** and **friendly staff** 
 - **Public park**
 - **Theater**
 
-[MyMedialink](/MyMedia.md)
+For more information [MyMedialink](/MyMedia.md)
