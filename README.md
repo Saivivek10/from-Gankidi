@@ -54,6 +54,6 @@ This code snippet is a TypeScript function that turns *setTimeout* into a promis
 ```typescript
 const timeoutPromise: (duration: number) => Promise<void> = (duration: number): Promise<void> => new Promise(resolver => setTimeout(resolver, duration));
 
-[Typescript](https://code.pieces.app/collections/typescript)
+[Typescript](https://code.pieces.app/collections/typescript.com)
 
 
