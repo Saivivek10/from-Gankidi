@@ -49,11 +49,11 @@ In this section, I have listed four songs that I highly recommend for anyone loo
 
 ## TypeScript Snippet - Async setTimeout Promise
 
-This code snippet is a TypeScript function that turns `setTimeout` into a promise, allowing it to be used asynchronously. It takes a duration as a parameter and returns a promise that resolves after the specified duration.
+This code snippet is a TypeScript function that turns *setTimeout* into a promise, allowing it to be used asynchronously. It takes a duration as a parameter and returns a promise that resolves after the specified duration.
 
 ```typescript
 const timeoutPromise: (duration: number) => Promise<void> = (duration: number): Promise<void> => new Promise(resolver => setTimeout(resolver, duration));
 
-[typescript](https://code.pieces.app/collections)
+[Typescript](https://code.pieces.app/collections/typescript)
 
 
