@@ -8,11 +8,12 @@ I love dining at **Paradise**. This restaurant offers a delightful culinary expe
 And I love **Paradise Biryani** .The **creative dishes** and **friendly staff** make every visit memorable.
 
 ---
+## Ordered list
 #### Three dishes 
 1. **Chicken Tikka kebab**
 2. **Mutton Biryani**
 3. **Royal Chicken Biryani**
-
+## Unordered list
 - **Shopping Mall**
 - **Public park**
 - **Theater**
@@ -30,5 +31,16 @@ In this section, I have listed four songs that I highly recommend for anyone loo
 | Blank Space         | A catchy pop anthem with clever lyrics.                  | Taylor Swift           |
 | Sunflower - Spider-Man | An upbeat and feel-good track from the Spider-Man: Into the Spider-Verse soundtrack. | Post Malone, Swae Lee  |
 | Wildest Dreams      | A dreamy and romantic song with beautiful melodies.      | Taylor Swift           |
+---
+
+---
+# Favorite Quotes
+
+> "What we know is a drop, what we don't know is an ocean."
+> - *Sir Isaac Newton*
+
+> "The future belongs to those who believe in the beauty of their dreams."
+> - *Eleanor Roosevelt*
+
 ---
 
