@@ -5,7 +5,7 @@
 Every time I hear it, it takes me on a journey of memories and feelings.
 
 
-[![My Image](My Image.jpeg)](/MyMedia.md)
+[![My Image](Image.jpeg)](/MyMedia.md)
 
 
 
