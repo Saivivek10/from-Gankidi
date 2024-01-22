@@ -56,7 +56,8 @@ const timeoutPromise: (duration: number) => Promise<void> = (duration: number): 
 
 ```
 
-[Snippet Source](https://code.pieces.app/collections) - TypeScript (Snippet 0, X+1)
+Snippet Source: [Typescript](https://code.pieces.app/collections)
+
 
 
 
