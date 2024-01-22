@@ -16,3 +16,5 @@ And I love **Paradise Biryani** .The **creative dishes** and **friendly staff** 
 - **Shopping Mall**
 - **Public park**
 - **Theater**
+
+[MyMedialink](/MyMedia.md)
